@@ -1,0 +1,39 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed');
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Page Styling */
+h2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 2em;
+}
+
+.wrapper header {
+  background-color: #0D74AF;
+  color: #FFFFFF;
+  padding: 2em 0;
+}
+
+.wrapper .container {
+  box-sizing: border-box;
+  width: 48em;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+.content {
+  background-color: #FAFAFA;
+}
+
+.wrapper footer {
+  background-color: #222;
+}
+
+.wrapper footer a {
+  color: #FFFFFF;
+}
