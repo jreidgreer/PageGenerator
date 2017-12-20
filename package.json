@@ -1,0 +1,23 @@
+{
+  "name": "page-generator",
+  "version": "1.0.0",
+  "description": "Using the provided files, create a script that dynamically generates a page based on a JSON file. The JSON file is _not_ provided for you, so go ahead and decide how to structure your data in the way you think is best.",
+  "main": "page-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreidgreer/PageGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jreidgreer/PageGenerator/issues"
+  },
+  "homepage": "https://github.com/jreidgreer/PageGenerator#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
